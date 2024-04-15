@@ -1,3 +1,3 @@
 git add archivo.ext
 git status   
-git commit 
+git commmit  -m "descripcion del commit"
